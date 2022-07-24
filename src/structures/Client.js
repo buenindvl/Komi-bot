@@ -1,11 +1,11 @@
 const { Client } = require("discord.js");
 const { readdirSync } = require("fs");
 const { join } = require("path");
-
+const clientVulkava = require("../../src/lavalink/vulkava/index.js");
 module.exports = class extends Client {
   constructor(options) {
     super(options);
-
+    this.vulkava = clientVulkava(this)
     this.commands = [];
     this.loadEvents();
   }
