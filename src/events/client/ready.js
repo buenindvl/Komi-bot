@@ -12,7 +12,7 @@ module.exports = class extends Event {
       errorHandler();
       await this.client.loadCommands();
       await this.client.registryCommands(); // Registra os comandos no servidor
-
+this.client.vulkava.start(this.client.user.id);
       this.client.user.setPresence({
         activities: [{ name: "bah", type: "PLAYING" }],
         status: "dnd",

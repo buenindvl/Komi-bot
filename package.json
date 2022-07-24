@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/buenindvl/Slakkj#readme",
   "dependencies": {
-    "discord.js": "^14.0.3"
+    "discord.js": "^14.0.3",
+    "vulkava": "^1.5.3"
   }
 }
