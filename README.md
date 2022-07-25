@@ -4,4 +4,4 @@
 # /Slash Commands 🐛
 > **Komi is being made in slash commands, along with her interactions `buttons`, `menus` and much more, do you have any tips contact me at `Discord` yBueno#0406**
 # Commands available ✨
-> **`/play`, `/skip`, `/pause`, `/queue`, `/resume`, `/filters`, `/djrole` and mode!**
+> **(Comming soon `/play`, `/skip`, `/pause`, `/queue`, `/resume`, `/filters`, `/djrole` and mode!**)
